@@ -5,3 +5,5 @@
 - Para ejecutar el sistema, desbes poner:
 
 - ```npm install react```
+
+Sistema de Rgistro 2
